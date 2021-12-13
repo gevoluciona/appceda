@@ -41,8 +41,8 @@ Generic styles
 /* other generic styles */
 
 .jh-card {
-  padding: 1.5%;
-  margin-top: 20px;
+  padding: 0%;
+  margin-top: 0px;
   border: none;
 }
 
@@ -207,4 +207,8 @@ p-table table tr th {
     color: #ffffff;
     text-decoration: none !important;
   }
+}
+
+.p-divider.p-divider-vertical:before {
+  border-left: 1px #04090e;
 }
