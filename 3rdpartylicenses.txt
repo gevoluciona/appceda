@@ -286,6 +286,7 @@ OTHER DEALINGS IN THE SOFTWARE.
 
 
 ngx-device-detector
+MIT
 
 ngx-infinite-scroll
 MIT
