@@ -216,3 +216,69 @@ p-table table tr th {
 .paddding0 {
   padding: 0;
 }
+
+/*#homeAmbientalCard .colorgreen .p-card {  
+  .p-card{background: #4dbd69}; 
+}*/
+
+#homeAmbientalCard .colorgreen > div {  
+  background: #4dbd69; 
+  .feature-name {
+    font-weight: 700;
+    font-size: 16px;
+    margin: 1rem 0;
+    color: white;
+    text-align: center;
+  }
+  a:link,
+  a:visited {
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+
+  a:hover,
+  a:active {
+    background-color: #66e072;
+  }
+}
+
+#homeAmbientalCard .colorblue > div {  
+  background: #2c1d81; 
+  .feature-name {
+    font-weight: 700;
+    font-size: 16px;
+    margin: 1rem 0;
+    color: white;
+    text-align: center;
+  }
+  a:link,
+  a:visited {
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+
+  a:hover,
+  a:active {
+    background-color: #957fe4;
+  }
+}
+
+#homeAmbientalCard {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ }
+
+
+
+//#homeAmbientalCard > div > p-card > div
+
+//#homeAmbientalCard > div > p-card > div colorgreen p-card p-component
+
+
+//*[@id="homeAmbientalCard"]/div/p-card/div
+///html/body/cda-main/div[2]/div/cda-ambiental-home/div/div/p-card/div
